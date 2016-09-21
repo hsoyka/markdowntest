@@ -1,15 +1,15 @@
-## Slide 1
+## Wombat running
 
 ![Hello WOMBAT](http://i.giphy.com/dVA9c3Ey7rCr6.gif)
 
-* Wombat hello
+* Hello from our wombat overlord
 
 Make sure **all** (bold text surrounded by `** **`) 
 
 *italics* (using one `* *` on either side of content)
 
 Note: 
-Hello from our wombat overlord. 
+Wombat says hello
 ---
 
 ## Slide 2
