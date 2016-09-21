@@ -1,6 +1,6 @@
 ## Slide 1
 
-![Hello WOMBAT](https://giphy.com/gifs/for-may-jobs-dVA9c3Ey7rCr6)
+![Hello WOMBAT](http://i.giphy.com/dVA9c3Ey7rCr6.gif)
 
 * Wombat hello
 
