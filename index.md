@@ -1,17 +1,15 @@
 ## Slide 1
 
-![](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
+![Hello WOMBAT](https://giphy.com/gifs/for-may-jobs-dVA9c3Ey7rCr6)
 
-* Bullet list
-* item 2
-* item 3
+* Wombat hello
 
 Make sure **all** (bold text surrounded by `** **`) 
 
 *italics* (using one `* *` on either side of content)
 
 Note: 
-
+Hello from our wombat overlord. 
 ---
 
 ## Slide 2
